@@ -49,6 +49,10 @@ body
 	font-size: 15pt;
 
 }
+.accordion-body
+{
+	text-align: justify;
+}
 
 #twi
 {
